@@ -1,0 +1,118 @@
+.left_navigation_panel{
+    float: left;
+    width: 25%;
+    height: 97%;
+    background-color: lightyellow;
+    margin: 2px;
+    padding: 5px;
+}
+
+.side_panel{
+    float: right;
+    width: 70%;
+    height: 97%;
+    margin: 2px;
+}
+
+
+.send_msg_warning{
+    color: darkred;
+    width: 75%;
+    text-align: center;
+}
+
+.info_panel{
+    background-color: lightyellow;
+    width: 97%;
+    height: 97%;
+}
+
+.pic img{
+    float: left;
+    width: 200px;
+    margin: 10px;
+}
+
+.information{
+    font-family: Arial;
+    margin: 5px;
+    padding-top: 5px;
+}
+
+.body{
+    height: 550px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+a:visited{
+    color: orange;
+}
+
+.send_msg_container{
+    border: 3px;
+    border-style: solid;
+    border-color: darkred;
+    width: 75%;
+    height: 65%;
+}
+
+.send_msg_title{
+    height: 14%;
+    padding-top: 7%;
+    padding-left: 3%;
+    background-color: darkred;
+    color: white;
+}
+
+.send_msg_body{
+    padding-top: 10%;
+}
+
+.label_receiver_email{
+    padding: 2%;
+}
+
+#to_email{
+    margin-bottom: 3%;
+    margin-left: 10%;
+    width: 45%;
+}
+
+#msg_input{
+    margin-left: 11%;
+    width: 45%;
+    padding-bottom: 28%;
+}
+
+.label_msg{
+    padding: 2%;
+}
+
+.send_msg_body .btn{
+    padding: 1%;
+    margin-left: 65%;
+}
+
+.inbox_container{
+    height: auto;
+    width: 80%;
+    margin-bottom: 5px;
+}
+
+.inbox_body{
+    padding: 5%;
+    overflow-wrap: break-word;
+}
+
+.email_title{
+    height: 30px;
+    padding-top: 13px;
+}
+
+.scrollable{
+    overflow-y: auto;
+}

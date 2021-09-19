@@ -1,0 +1,62 @@
+body{
+    background-color: grey;
+}
+
+#main{
+    margin: auto;
+    width: 800px;
+    margin-top: 10px;
+    overflow: auto;
+    font-family: Arial;
+}
+
+#header{
+    background-color: darkred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    color: white;
+    margin: 5px;
+}
+#header h4{
+    color: grey;
+}
+
+#footer {
+    background-color: darkred;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+
+#body table{
+    border: solid;
+    border-color: darkred;
+    margin: 10px;
+}
+
+#body th{
+    background-color: darkred;
+    color: white;
+    margin: none;
+    padding: 10px;
+}
+
+#body td{
+    padding-right: 40px;
+}
+
+#body {
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 5px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+.reg_success{
+    color: darkred;
+}
